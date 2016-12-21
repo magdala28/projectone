@@ -1,4 +1,4 @@
 def operations(a,b):
-	print('conflicto')
+	print(a**b)
 
 operations(1,2)
